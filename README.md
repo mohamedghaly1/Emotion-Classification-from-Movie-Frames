@@ -56,7 +56,7 @@ Reduce to 1x128 vector.
 
 Use K-Means clustering on feature vectors.
 
-### 🧪 Model 2: CNN with DL Library (30%)
+### 🧪 Model 2: CNN with DL Library
 
 3 convolutional layers + ReLU + MaxPooling.
 
@@ -66,7 +66,7 @@ Fully connected layer (Sigmoid), output layer (Softmax).
 
 Train and validate on prepared dataset.
 
-## 📊 Milestone 3: Evaluation & Reporting (20%)
+## 📊 Milestone 3: Evaluation & Reporting
 
 Goal: Evaluate model performance and summarize results.
 
